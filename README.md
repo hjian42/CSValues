@@ -44,11 +44,11 @@ The sentences were sampled from 226,600 papers published between 2013-2022 acros
 If you use this dataset in your research, please cite our paper:
 
 ```bibtex
-@article{jiang2024researchvalues,
- title={Automatic Detection of Research Values from Scientific Abstracts Across Computer Science Subfields},
- author={Jiang, Hang and August, Tal and Soldaini, Luca and Lo, Kyle and Antoniak, Maria},
- note={Presented at The 3rd International Conference on the Science of Science and Innovation (ICSSI)},
- year={2024},
+@article{jiang2025automatic,
+  title={Automatic Detection of Research Values from Scientific Abstracts Across Computer Science Subfields},
+  author={Jiang, Hang and August, Tal and Soldaini, Luca and Lo, Kyle and Antoniak, Maria},
+  journal={arXiv preprint arXiv:2502.16390},
+  year={2025}
 }
 ```
 
